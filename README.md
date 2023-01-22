@@ -12,5 +12,10 @@ https://archive.ics.uci.edu/ml/datasets/sentiment+labelled+sentences#
 1. Logistic Regression
 2. Support Vector Machine
 
+## Web App Demo
+
+Here is the link to the web app demo - 
+https://manansheel1991-sentiment-ana-sentiment-analyser-app-code-j6oei7.streamlit.app/
+
 
 
