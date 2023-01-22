@@ -35,6 +35,6 @@ if submit:
     result = clf.predict(user_input_to_model)
 
     if result == 0:
-        st.success('Negative Sentiment')
+        st.error('Negative Sentiment')
     elif result == 1:
-        st.error('Positive Sentiment')
+        st.success('Positive Sentiment')
